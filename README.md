@@ -75,7 +75,7 @@ can be things like `Number` or `String`, but, in JavaScript, **can also** be
 
 The iterator function `map()` expects to be _passed a function as an
 argument_ which they will hand each of their elements off to. In the case of
-`map()` it hands each element to the function and stores the return value of
+`map()` it h  ands each element to the function and stores the return value of
 the function into a new `Array`.
 
 This code is more _expressive_ because it lives up to the promise of map. It
