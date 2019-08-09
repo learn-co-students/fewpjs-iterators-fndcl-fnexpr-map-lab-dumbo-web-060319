@@ -19,14 +19,3 @@ return tutorials.map(tutorial => {
 })
 
 }
-
-
-
-// const titles = () => {
-//   return tutorials.map(function(string) {
-//     const arrayOfWords = string.split(' ')
-//     return (arrayOfWords.map(function(word){
-//       return word.charAt(0).toUpperCase() + word.slice(1)
-//     }).join(" "))
-//   })
-// }
